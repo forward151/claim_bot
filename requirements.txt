@@ -1,0 +1,5 @@
+python-telegram-bot==21.3
+google-generativeai==0.7.0
+pypdf2==3.0.1
+pdf2image==1.17.0
+easyocr==1.7.1
